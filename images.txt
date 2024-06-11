@@ -1,1 +1,2 @@
-LX Music Sync Server
+Music
+Bitwarden
